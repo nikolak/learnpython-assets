@@ -1,0 +1,109 @@
+> Welcome to /r/LearnPython!
+
+> Please read the rules and guidelines below and [**search**](http://www.reddit.com/r/learnpython/search?q=your_query&restrict_sr=on) before posting.
+
+> All learning resources are in the wiki: [/r/learnpython/w/index](http://www.reddit.com/r/learnpython/wiki/index)
+
+
+*****************************
+
+
+> [**IRC Chat**](#icon-comments)
+
+> Join us in the IRC channel: `##learnpython` on `irc.freenode/.net`
+
+> Webchat link:[webchat.freenode.net](http://webchat.freenode.net/?channels=%23%23learnpython)
+
+> Full guide on how to join with different clients: [/wiki/IRC](http://www.reddit.com/r/learnpython/wiki/IRC)
+
+
+*****************************
+
+
+#Rules
+
+##General Rules
+
+* Posting only assignment/project goal is not allowed. Read posting guidelines.
+
+* Easily googable questions are not allowed.
+
+* Posting screenshot of the code is (generally) not allowed. Read posting guidelines.
+
+* Insulting will not be tolerated.
+
+* [Reddit rules](http://www.reddit.com/rules/) These apply also on this subreddit.
+
+* Breaking these rules may result in post removal and/or ban from this subreddit.
+
+
+
+#Guidelines
+
+##Commenting
+
+* Try to guide OP to a solution instead of providing one directly.
+
+* Provide links to related resources.
+
+* Answer the question and highlight side-issues if any exist.
+
+* Don't "answer and run", be prepared to respond to follow up questions.
+
+* Proofread your answers for clarity and correctness.
+
+* Be polite.
+
+##Posting
+
+* Try out suggestions you get and report back.
+
+* [SSCCE](http://sscce.org/) Keep your code Short, Self Contained, Correct (Compilable) and provide Example
+
+* Include the error you get when running the code, if there is one.
+
+* Ensure your example is correct. Either the example compiles cleanly, or causes the exact error message about which you want help.
+
+* Avoid posting a lot of code in your posts.
+
+* Posting homework assignments is not prohibited if you show that you tried to solve it yourself.
+
+##Posting resources
+
+* [What Have You Tried (.com)](http://www.whathaveyoutried.com/)
+
+* [How to ask a software question](http://en.wikipedia.org/wiki/Wikipedia:Reference_desk/How_to_ask_a_software_question)
+
+* [Writing the perfect question](http://msmvps.com/blogs/jon_skeet/archive/2010/08/29/writing-the-perfect-question.aspx)
+
+##Code hosting
+
+* [Pastebin](http://www.pastebin.com)
+
+* [Github gist](https://gist.github.com)
+
+#Related subreddits
+
+##Python related
+
+* /r/python
+
+* /r/flask
+
+* /r/django
+
+##General
+
+* /r/learnprogramming
+
+* /r/dailyprogrammer
+
+*****************************
+
+If you have any questions/suggestions please message the moderators:
+
+[Message the moderators](#btn )
+
+Subreddit CSS and other assets can be found on github here:
+
+[Subreddit assets](#btn)

@@ -1,0 +1,255 @@
+/* Flairs
+
+Names like py27 and py32 in flair css are leftovers from old flairs that
+had specific python versions in them, they stayed to keep the new flairs
+backwards comaptible i.e. to avoid py3k-ing the flairs */
+
+.flair {
+    font-size: x-small;
+    }
+
+.flair-py27bg:before { /* Python 2 Beginner flair */
+    content: "";
+    width: 80px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -0px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py2int:before { /* Python 2 Intermediate flair */
+    content: "";
+    width: 105px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -13px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py27ad:before { /* Python 2 Advanced flair */
+    content: "";
+    width: 80px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -25px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py27ex:before { /* Python 2 Expert flair */
+    content: "";
+    width: 67px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -38px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py27bggh:before { /* Python 2 Beginner flair w/ Github */
+    content: "";
+    width: 99px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -50px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py2intgh:before { /* Python 2 Intermediate flair w/ Github */
+    content: "";
+    width: 124px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -63px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py27adgh:before { /* Python 2 Advanced flair w/ Github */
+    content: "";
+    width: 99px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -75px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py27exgh:before { /* Python 2 Expert flair w/ Github */
+    content: "";
+    width: 86px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -88px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32bg:before { /* Python 3 Beginner flair w/ Github */
+    content: "";
+    width: 80px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -100px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py3int:before { /* Python 3 Intermediate flair w/ Github */
+    content: "";
+    width: 105px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -113px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32ad:before { /* Python 3 Advanced flair w/ Github */
+    content: "";
+    width: 80px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -125px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32ex:before { /* Python 3 Expert flair w/ Github */
+    content: "";
+    width: 67px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -138px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32bggh:before { /* Python 3 Beginner flair w/ Github */
+    content: "";
+    width: 99px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -150px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py3intgh:before { /* Python 3 Intermediate flair w/ Github */
+    content: "";
+    width: 124px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -163px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32adgh:before { /* Python 3 Advanced flair w/ Github */
+    content: "";
+    width: 99px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -175px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py32exgh:before { /* Python 3 Expert flair w/ Github */
+    content: "";
+    width: 86px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -188px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py2-empty:before { /* Python 2 empty flair */
+    content: "";
+    width: 25px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -200px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-py3-empty:before { /* Python 3 empty flair */
+    content: "";
+    width: 25px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -212px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
+
+
+.flair-github-empty:before { /* Github logo empty flair */
+    content: "";
+    width: 15px;
+    height: 12px;
+    display: inline-block;
+    background-repeat: no-repeat;
+    background-image: url(%%flairs%%);
+    background-position: -0px -224px;
+    vertical-align: middle;
+    margin-right: 3px
+    }
