@@ -2,6 +2,10 @@
 
 > Please read the rules and guidelines below and [**search**](http://www.reddit.com/r/learnpython/search?q=your_query&restrict_sr=on) before posting.
 
+*****************************
+
+> [**Learning resources**](#icon-information)
+
 > All learning resources are in the wiki: [/r/learnpython/w/index](http://www.reddit.com/r/learnpython/wiki/index)
 
 
@@ -12,7 +16,7 @@
 
 > Join us in the IRC channel: `##learnpython` on `irc.freenode/.net`
 
-> Webchat link:[webchat.freenode.net](http://webchat.freenode.net/?channels=%23%23learnpython)
+> Webchat link: [webchat.freenode.net](http://webchat.freenode.net/?channels=%23%23learnpython)
 
 > Full guide on how to join with different clients: [/wiki/IRC](http://www.reddit.com/r/learnpython/wiki/IRC)
 
@@ -102,8 +106,8 @@
 
 If you have any questions/suggestions please message the moderators:
 
-[Message the moderators](#btn )
+[Message the moderators](http://www.reddit.com/message/compose?to=%2Fr%2Flearnpython/#btn )
 
 Subreddit CSS and other assets can be found on github here:
 
-[Subreddit assets](#btn)
+[Subreddit assets](github.com/Nikola-K/learnpython-assets/#btn)
