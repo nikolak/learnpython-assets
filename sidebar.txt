@@ -110,4 +110,4 @@ If you have any questions/suggestions please message the moderators:
 
 Subreddit CSS and other assets can be found on github here:
 
-[Subreddit assets](github.com/Nikola-K/learnpython-assets/#btn)
+[Subreddit assets](https://github.com/Nikola-K/learnpython-assets/#btn)
